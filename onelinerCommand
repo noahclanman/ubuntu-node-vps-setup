@@ -1,0 +1,1 @@
+curl -fsSL https://raw.githubusercontent.com/noahclanman/ubuntu-node-vps-setup/main/install-node.sh -o install-node.sh && chmod +x install-node.sh && ./install-node.sh
